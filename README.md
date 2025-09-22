@@ -4,7 +4,7 @@
 
 by Peter Kahl, 23 September 2025
 
-![Two hands holding a delicate origami bird above a glowing crucible or small flame. The bird is fragile yet emerging from fire.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/negotiation.jpg?raw=true)
+![Two hands holding a delicate origami bird above a glowing crucible or small flame. The bird is fragile yet emerging from fire.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/origami.jpg?raw=true)
 
 ### Abstract
 

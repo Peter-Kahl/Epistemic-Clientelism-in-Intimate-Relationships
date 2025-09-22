@@ -4,7 +4,7 @@
 
 by Peter Kahl, 23 September 2025
 
-![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/negotiation.jpg?raw=true)
+![Two hands holding a delicate origami bird above a glowing crucible or small flame. The bird is fragile yet emerging from fire.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/negotiation.jpg?raw=true)
 
 ### Abstract
 

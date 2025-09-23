@@ -4,6 +4,8 @@
 
 by Peter Kahl, 23 September 2025
 
+DOI: 10.13140/RG.2.2.34668.63361
+
 ![Two hands holding a delicate origami bird above a small flame of a candle. The bird is fragile yet emerging from fire.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/origami.jpg?raw=true)
 
 ### Abstract
@@ -31,7 +33,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 ### Cite this work
 
 ```
-Kahl, P. (2025). Epistemic clientelism in intimate relationships: The family as crucible of autonomy and dependence in psychology and psychiatry. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships
+Kahl, P. (2025). Epistemic clientelism in intimate relationships: The family as crucible of autonomy and dependence in psychology and psychiatry. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships DOI: https://doi.org/10.13140/rg.2.2.34668.63361
 ```
 
 ### Publisher & Licence

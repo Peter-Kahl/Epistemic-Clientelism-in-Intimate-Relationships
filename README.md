@@ -4,7 +4,7 @@
 
 by Peter Kahl, 23 September 2025; 2nd ed. 25 September 2025
 
-DOI: 10.13140/RG.2.2.22662.43849
+DOI: 10.13140/RG.2.2.33790.45122
 
 ![Two hands holding a delicate origami bird above a small flame of a candle. The bird is fragile yet emerging from fire.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/origami.jpg?raw=true)
 
@@ -36,7 +36,7 @@ KMED simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-Scr
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic clientelism in intimate relationships: The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology_ (2nd ed.). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships
+Kahl, P. (2025). _Epistemic clientelism in intimate relationships: The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology_ (2nd ed.). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships DOI: https://doi.org/10.13140/RG.2.2.33790.45122
 
 ## Publisher & Licence
 

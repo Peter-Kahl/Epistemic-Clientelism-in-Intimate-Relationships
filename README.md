@@ -4,7 +4,7 @@
 
 by Peter Kahl, 23 September 2025; 2nd ed. 25 September 2025
 
-DOI: 10.13140/RG.2.2.33790.45122
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.33790.45122-blue.svg)](https://doi.org/10.13140/RG.2.2.33790.45122)
 
 ![Two hands holding a delicate origami bird above a small flame of a candle. The bird is fragile yet emerging from fire.](https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/blob/main/origami.jpg?raw=true)
 

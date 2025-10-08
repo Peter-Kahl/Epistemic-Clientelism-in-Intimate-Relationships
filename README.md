@@ -2,7 +2,7 @@
 
 ### The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology
 
-by Peter Kahl, 23 September 2025; 2nd ed. 25 September 2025
+by Peter Kahl, 23 September 2025; v2: 2025-09-25
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.33790.45122-blue.svg)](https://doi.org/10.13140/RG.2.2.33790.45122)
 
@@ -36,12 +36,12 @@ KMED simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-Scr
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic clientelism in intimate relationships: The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology_ (2nd ed.). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships DOI: https://doi.org/10.13140/RG.2.2.33790.45122
+Kahl, P. (2025). _Epistemic clientelism in intimate relationships: The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships DOI: https://doi.org/10.13140/RG.2.2.33790.45122
 
 ## Publisher & Licence
 
 First published in London by Lex et Ratio Ltd, 23 September 2025.\
-Second edition published in London by Lex et Ratio Ltd, 25 September 2025.
+v2 published in London by Lex et Ratio Ltd, 25 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\

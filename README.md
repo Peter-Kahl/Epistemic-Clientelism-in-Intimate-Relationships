@@ -1,6 +1,6 @@
 # Epistemic Clientelism in Intimate Relationships
 
-### The _Kahl Model of Epistemic Dissonance_ (KMED) and the Foundations of Epistemic Psychology
+### The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology
 
 by Peter Kahl, 23 September 2025; v2: 2025-09-25
 

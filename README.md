@@ -26,9 +26,9 @@ epistemic psychology, fiduciary ethics, epistemic clientelism, fiduciary boundar
 
 This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
-## KMED Computational Modelling
+## KMED-R (Relationships): Partner Dyad Simulator
 
-KMED simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-Scripts .
+KMED-R simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-R-relationships-partner-dyad-simulator .
 
 ## Download
 

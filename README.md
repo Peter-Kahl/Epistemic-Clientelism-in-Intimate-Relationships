@@ -1,8 +1,8 @@
 # Epistemic Clientelism in Intimate Relationships
 
-### The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology
+### Fiduciary ethics, epistemic dissonance, and the computational foundations of epistemic psychology
 
-by Peter Kahl, 2025-09-23; v2: 2025-09-25
+by Peter Kahl, 2025-09-23; v3: 2025-10-14
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.33790.45122-blue.svg)](https://doi.org/10.13140/RG.2.2.33790.45122) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -10,17 +10,17 @@ by Peter Kahl, 2025-09-23; v2: 2025-09-25
 
 ## Abstract
 
-This paper introduces the _Kahl Model of Epistemic Dissonance_ (KMED) — the first formal mathematical model of epistemic clientelism in intimacy. It identifies the mechanisms that underlie social life — recognition, silencing, dissonance, and clientelism — and shows how these are first rehearsed in families and partnerships, where autonomy and dependence are forged.
+This paper advances a unified theory of epistemic psychology, proposing that the dynamics of intimacy disclose the moral architecture of human knowing. Building on _Epistemic Clientelism Theory_ and the _Kahl Model of Epistemic Dissonance_ (KMED), it develops _KMED-R (Relationships)_—a formal and conceptual framework modelling how recognition (ρ), suppression (σ), and fiduciary containment (ϕ) regulate the evolution of three relational state variables: Epistemic Autonomy (EA), Dissonance Tolerance (DT), and Dependence (D).
 
-KMED is specified through equations and implemented in Python, with simulations tracking how repeated micro-dissonance events shape long-term trajectories of epistemic autonomy, dissonance tolerance, and dependence. The results demonstrate how fiduciary scaffolds transform dissonance into resilience, while clientelist suppression corrodes agency and entrenches subordination. By making these dynamics explicit and testable, KMED provides a proof-of-concept for a computational epistemic psychology.
+Integrating longitudinal, developmental, and cross-cultural evidence, KMED-R situates adult relational ethics within a continuum beginning in infancy (KMED-I) and extending through partnership, education, and institutional life.  Studies across family systems, bicultural adaptation, and filial morality demonstrate that early fiduciary asymmetries of care and authority script the later moral grammar of trust, conflict, and recognition.
 
-The contribution spans three domains. For **epistemic psychology**, the paper reframes dissonance as an epistemic event that can produce either submission or resilience. For **psychiatry**, it offers a lens on trauma, gaslighting, and attachment, showing how rupture and repair in therapeutic alliances mirror fiduciary safeguarding of agency. For **philosophy and governance**, it extends fiduciary–epistemic theory into private life, reframing love as trusteeship grounded in duties of care, loyalty, candour, and a Razian account of authority as service.
+The paper introduces the _Fiduciary Boundary Test_ (FBT) and the _Trust–Authority–Clientelism Matrix_ (TACM) as diagnostic tools for distinguishing fiduciary openness from clientelist closure in both interpersonal and institutional systems.  Conceptual simulations show that epistemic stability arises not from affective intensity but from fiduciary ethics: systems high in ϕ display resilience, repair, and bounded autonomy, whereas low-ϕ (clientelist) systems collapse into dependency or fragmentation.
 
-Finally, the paper advances an _Intimate Epistemic Oath_ as a normative scaffold for restructuring dependence into dignified, pluralistic agency. Intimacy thus emerges as the proving ground of epistemic psychology and the first site where the conditions of freedom, recognition, and resilience in social life are secured or betrayed.
+By linking developmental psychology, social conflict research, and moral philosophy, the study reframes attachment, cognition, and governance as fiduciary processes—ethical negotiations of interpretive authority.  Dissonance is recast as the engine of epistemic growth; silencing, as its moral corruption.  Knowing itself emerges as a fiduciary act: it begins in trust, is sustained through recognition, and decays under suppression.
 
 ## Keywords
 
-epistemic clientelism, intimate relationships, epistemic psychology, fiduciary responsibility, epistemic autonomy, recognition, gaslighting, testimonial injustice, mathematical modelling, computational simulation, Kahl Model of Epistemic Dissonance (KMED)
+epistemic psychology, fiduciary ethics, epistemic clientelism, fiduciary boundary test (FBT), trust–authority–clientelism matrix (TACM), recognition, suppression, fiduciary containment, epistemic autonomy, dissonance tolerance, dependence, relational epistemology, moral cognition, trust dynamics, developmental epistemics, cross-cultural intimacy, institutional governance
 
 ## Working Paper Status
 
@@ -32,16 +32,17 @@ KMED simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-Scr
 
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/master/Kahl_P_Epistemic_Clientelism_in_Intimate_Relationships_v2_2025-09-25.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships/master/Kahl_P_Epistemic_Clientelism_in_Intimate_Relationships_v3_2025-10-14.pdf)
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic clientelism in intimate relationships: The Kahl Model of Epistemic Dissonance (KMED) and the Foundations of Epistemic Psychology_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships DOI: https://doi.org/10.13140/RG.2.2.33790.45122
+Kahl, P. (2025). _Epistemic clientelism in intimate relationships: Fiduciary ethics, epistemic dissonance, and the computational foundations of epistemic psychology_ (v3). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-in-Intimate-Relationships DOI: https://doi.org/10.13140/RG.2.2.33790.45122
 
 ## Publisher & Licence
 
 First published in London by Lex et Ratio Ltd, 2025-09-23.\
-v2 published in London by Lex et Ratio Ltd, 2025-09-25.
+v2 published in London by Lex et Ratio Ltd, 2025-09-25.\
+v3 published in London by Lex et Ratio Ltd, 2025-10-14.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\

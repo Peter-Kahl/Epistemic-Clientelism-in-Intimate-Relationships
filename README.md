@@ -2,6 +2,8 @@
 
 ### Fiduciary ethics, epistemic dissonance, and the computational foundations of epistemic psychology
 
+---
+
 by Peter Kahl, 2025-09-23; v3: 2025-10-14
 
 [![DOI](https://zenodo.org/badge/DOI/10.13140/RG.2.2.33790.45122.svg)](https://doi.org/10.13140/RG.2.2.33790.45122) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
@@ -21,10 +23,6 @@ By linking developmental psychology, social conflict research, and moral philoso
 ## Keywords
 
 epistemic psychology, fiduciary ethics, epistemic clientelism, fiduciary boundary test (FBT), trust–authority–clientelism matrix (TACM), recognition, suppression, fiduciary containment, epistemic autonomy, dissonance tolerance, dependence, relational epistemology, moral cognition, trust dynamics, developmental epistemics, cross-cultural intimacy, institutional governance
-
-## Working Paper Status
-
-This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ## KMED-R (Relationships): Partner Dyad Simulator
 
